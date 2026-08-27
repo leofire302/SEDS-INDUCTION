@@ -7,7 +7,7 @@ first had to clean the data points for noise and other crap for which then i cre
 used this cleaned data to plot a matplotlib graph
 then used pyqt5 for a clean beautiful interface
 used red pointers to highlight the errors in reading ( all depth readings that had a difference of more than 50 from the last reading was deemed as a bad value )
-NOTE:- only know basics in coding i used ai to write the code as i wanted as i only had 4-5 hours to learn
+NOTE:- 
        would love to be selected for round 2 as im very interested in avionics and would have much more time to learn
 
 
